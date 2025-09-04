@@ -1,0 +1,4 @@
+flask
+flask-cors
+svg_turtle
+gunicorn
